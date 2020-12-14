@@ -6,5 +6,7 @@ let stampMessage = new Vue ({
     data: {
         //istance data properties
         messaggio : "Questo è il mio primo esercizio con Vue Js",
+        immagine : "./assets/img/vuemastery.svg",
+        testoAltenativo : "immagine primo esercizio Vue Js"
     }
 });
